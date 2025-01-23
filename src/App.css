@@ -1,0 +1,20 @@
+:root, [data-theme="dark"] {
+  --background-color: #11191f; 
+  --text-color: #ffffff; 
+  --primary: #6b8afd; 
+
+}
+
+html {
+  color-scheme: dark;
+}
+
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
