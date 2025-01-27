@@ -1,4 +1,5 @@
 https://github.com/alphahunter25/web_dev_project.git
+https://github.com/alphahunter25/web_dev_project
 
 Ahmed Abdul Rauf - 251729544
 Muhammad Sarmad - 251740974
